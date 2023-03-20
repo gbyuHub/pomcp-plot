@@ -1,0 +1,14 @@
+Collected bad rocks = 0.43 +- 0.0651997
+Collected bad rocks = 0.405 +- 0.0447758
+Collected bad rocks = 0.43 +- 0.0355168
+Collected bad rocks = 0.4275 +- 0.0306082
+Collected bad rocks = 0.42 +- 0.0268179
+Collected bad rocks = 0.491667 +- 0.027384
+Collected bad rocks = 0.528571 +- 0.0261248
+Collected bad rocks = 0.52375 +- 0.0242883
+Collected bad rocks = 0.475556 +- 0.0222905
+Collected bad rocks = 0.429 +- 0.020566
+Collected bad rocks = 0.39 +- 0.0190625
+Collected bad rocks = 0.3575 +- 0.0177489
+Collected bad rocks = 0.330769 +- 0.0166013
+Collected bad rocks = 0.307143 +- 0.0155827

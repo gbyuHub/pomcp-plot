@@ -1,0 +1,14 @@
+Undiscounted return = -0.6 +- 0.946784
+Undiscounted return = 0.5 +- 0.983616
+Undiscounted return = -0.2 +- 1.01961
+Undiscounted return = -0.3 +- 0.921466
+Undiscounted return = 0.3 +- 0.932255
+Undiscounted return = 3.3 +- 1.52352
+Undiscounted return = 14.5 +- 1.60857
+Undiscounted return = 11.3 +- 1.33907
+Undiscounted return = 12.4 +- 1.09654
+Undiscounted return = 7.4 +- 0.795236
+Undiscounted return = 6.6 +- 0.777432
+Undiscounted return = 5.3 +- 0.607536
+Undiscounted return = 3.7 +- 0.559553
+Undiscounted return = 3.7 +- 0.610819

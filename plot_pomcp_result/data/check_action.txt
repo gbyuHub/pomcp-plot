@@ -1,0 +1,14 @@
+Apply check actions = 60.06 +- 0.766527
+Apply check actions = 59.39 +- 0.578956
+Apply check actions = 59.52 +- 0.450541
+Apply check actions = 59.62 +- 0.396281
+Apply check actions = 59.358 +- 0.36097
+Apply check actions = 58.5933 +- 0.333328
+Apply check actions = 57.3957 +- 0.33052
+Apply check actions = 57.015 +- 0.306022
+Apply check actions = 56.8578 +- 0.290478
+Apply check actions = 56.91 +- 0.279063
+Apply check actions = 56.9836 +- 0.270484
+Apply check actions = 57.2275 +- 0.261232
+Apply check actions = 57.4292 +- 0.259529
+Apply check actions = 57.5357 +- 0.260449

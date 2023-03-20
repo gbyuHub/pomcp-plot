@@ -1,0 +1,14 @@
+Collected good rocks = 0.37 +- 0.0577148
+Collected good rocks = 0.4 +- 0.0424264
+Collected good rocks = 0.42 +- 0.0360678
+Collected good rocks = 0.4125 +- 0.0307142
+Collected good rocks = 0.414 +- 0.0273717
+Collected good rocks = 0.541667 +- 0.031577
+Collected good rocks = 0.778571 +- 0.0388266
+Collected good rocks = 0.88375 +- 0.0376702
+Collected good rocks = 0.933333 +- 0.0356249
+Collected good rocks = 0.915 +- 0.033042
+Collected good rocks = 0.891818 +- 0.0309375
+Collected good rocks = 0.861667 +- 0.028952
+Collected good rocks = 0.824615 +- 0.0272834
+Collected good rocks = 0.792143 +- 0.0258973
